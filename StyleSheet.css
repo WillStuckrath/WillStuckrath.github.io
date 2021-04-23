@@ -1,0 +1,27 @@
+﻿body
+{
+background-color:dodgerblue;
+
+}
+li {
+    display: inline;
+    margin: 25px;
+    text-decoration: none;
+}
+
+.Navigation {
+    background-color: lightgray;
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 30px;
+}
+
+.Box {
+    background-color: white;
+    text-align: center;
+    border: solid 5px black;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 25px;
+}
